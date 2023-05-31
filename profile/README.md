@@ -1,5 +1,9 @@
-## Hi there,
+# Hi there,
+## Contact
+Discord: https://discord.gg/suKuFvWb65
 
+## Partner
+<a>K-Network</a>
 
 <!--
 
