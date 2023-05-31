@@ -1,4 +1,5 @@
-# Hi there,
+# Zelcrux
+
 ## Contact
 Discord: https://discord.gg/suKuFvWb65
 
