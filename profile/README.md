@@ -1,6 +1,6 @@
 ## Hi there,
 
-I trie to make my own organization wher we will make discord bots, websites, Minecraft plugins and apis to make your life easier 
+
 <!--
 
 **Here are some ideas to get you started:**
