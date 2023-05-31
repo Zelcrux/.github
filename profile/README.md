@@ -3,7 +3,7 @@
 Discord: https://discord.gg/suKuFvWb65
 
 ## Partner
-<a>K-Network</a>
+<a href="https://Zelcrux.net/partner/K-Network">K-Network</a>
 
 <!--
 
