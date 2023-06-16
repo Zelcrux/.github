@@ -1,4 +1,5 @@
 # Zelcrux
+[![](https://img.shields.io/badge/Java-17-success?logo=java)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ## Contact
 Discord: https://discord.gg/suKuFvWb65
