@@ -3,6 +3,10 @@
 ## Contact
 Discord: https://discord.gg/suKuFvWb65
 
+managment@zelcrux.net
+support@zelcrux.net - Product support
+contact@zelcrux.net - to message about a Product
+
 ## Partners
 <a href="https://Zelcrux.net/partner/K-Network">K-Network</a>
 
