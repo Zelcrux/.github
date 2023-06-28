@@ -4,7 +4,9 @@
 Discord: https://discord.gg/suKuFvWb65
 
 managment@zelcrux.net
+
 support@zelcrux.net - Product support
+
 contact@zelcrux.net - to message about a Product
 
 ## Partners
