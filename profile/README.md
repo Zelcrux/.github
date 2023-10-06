@@ -13,7 +13,7 @@ contact@zelcrux.net - to message about a Product
 <a href="https://Zelcrux.net/partner/K-Network">K-Network</a>
 
 ## Services
-Discord, Ts3 and WhatsApp bots - <a href="https://github.com/orgs/Zelcrux/teams/discord">Example</a>
+Discord, Ts3 and WhatsApp bots - <a href="https://github.com/orgs/Zelcrux/teams/discord/reposetory">Example</a>
 
 Website's - <a href="https://github.com/orgs/Zelcrux/teams/web">Example</a>
 
